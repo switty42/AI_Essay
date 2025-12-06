@@ -1,0 +1,401 @@
+
+
+******** Topic number: 1 ************
+
+reading
+
+******** Topic number: 2 ************
+
+writing
+
+******** Topic number: 3 ************
+
+literacy
+
+******** Topic number: 4 ************
+
+language
+
+******** Topic number: 5 ************
+
+literacy
+
+******** Topic number: 6 ************
+
+I cannot identify the topic because no essay was provided - only instructions for writing a literacy narrative essay.
+
+******** Topic number: 7 ************
+
+writing
+
+******** Topic number: 8 ************
+
+teaching
+
+******** Topic number: 9 ************
+
+writing
+
+******** Topic number: 10 ************
+
+public speaking
+
+******** Topic number: 11 ************
+
+writing
+
+******** Topic number: 12 ************
+
+programming
+
+******** Topic number: 13 ************
+
+writing
+
+******** Topic number: 14 ************
+
+writing
+
+******** Topic number: 15 ************
+
+language learning
+
+******** Topic number: 16 ************
+
+writing
+
+******** Topic number: 17 ************
+
+literacy
+
+******** Topic number: 18 ************
+
+literacy
+
+******** Topic number: 19 ************
+
+writing
+
+******** Topic number: 20 ************
+
+translation
+
+******** Topic number: 21 ************
+
+I need to see the essay in order to identify its topic. You've only provided "**The" which appears to be the beginning of a title or sentence. Please share the complete essay so I can determine its topic for you.
+
+******** Topic number: 22 ************
+
+writing
+
+******** Topic number: 23 ************
+
+interpreting
+
+******** Topic number: 24 ************
+
+writing
+
+******** Topic number: 25 ************
+
+writing
+
+******** Topic number: 26 ************
+
+editing
+
+******** Topic number: 27 ************
+
+"literacy"
+
+******** Topic number: 28 ************
+
+public speaking
+
+******** Topic number: 29 ************
+
+programming
+
+******** Topic number: 30 ************
+
+writing
+
+******** Topic number: 31 ************
+
+digital communication
+
+******** Topic number: 32 ************
+
+language
+
+******** Topic number: 33 ************
+
+public speaking
+
+******** Topic number: 34 ************
+
+writing
+
+******** Topic number: 35 ************
+
+public speaking
+
+******** Topic number: 36 ************
+
+language learning
+
+******** Topic number: 37 ************
+
+language
+
+******** Topic number: 38 ************
+
+programming
+
+******** Topic number: 39 ************
+
+writing
+
+******** Topic number: 40 ************
+
+debate
+
+******** Topic number: 41 ************
+
+writing
+
+******** Topic number: 42 ************
+
+literacy
+
+******** Topic number: 43 ************
+
+public speaking
+
+******** Topic number: 44 ************
+
+communication
+
+******** Topic number: 45 ************
+
+writing
+
+******** Topic number: 46 ************
+
+writing
+
+******** Topic number: 47 ************
+
+public speaking
+
+******** Topic number: 48 ************
+
+teaching
+
+******** Topic number: 49 ************
+
+literacy
+
+******** Topic number: 50 ************
+
+translation
+
+******** Topic number: 51 ************
+
+reading
+
+******** Topic number: 52 ************
+
+public speaking
+
+******** Topic number: 53 ************
+
+translation
+
+******** Topic number: 54 ************
+
+writing
+
+******** Topic number: 55 ************
+
+peer editing
+
+******** Topic number: 56 ************
+
+teaching
+
+******** Topic number: 57 ************
+
+communication
+
+******** Topic number: 58 ************
+
+literacy
+
+******** Topic number: 59 ************
+
+writing
+
+******** Topic number: 60 ************
+
+Chess
+
+******** Topic number: 61 ************
+
+literacy
+
+******** Topic number: 62 ************
+
+vocabulary
+
+******** Topic number: 63 ************
+
+writing
+
+******** Topic number: 64 ************
+
+"writing"
+
+******** Topic number: 65 ************
+
+literacy
+
+******** Topic number: 66 ************
+
+teaching
+
+******** Topic number: 67 ************
+
+writing
+
+******** Topic number: 68 ************
+
+vocabulary
+
+******** Topic number: 69 ************
+
+reading
+
+******** Topic number: 70 ************
+
+translation
+
+******** Topic number: 71 ************
+
+writing
+
+******** Topic number: 72 ************
+
+literacy
+
+******** Topic number: 73 ************
+
+writing
+
+******** Topic number: 74 ************
+
+writing
+
+******** Topic number: 75 ************
+
+writing
+
+******** Topic number: 76 ************
+
+reading
+
+******** Topic number: 77 ************
+
+language
+
+******** Topic number: 78 ************
+
+writing
+
+******** Topic number: 79 ************
+
+writing
+
+******** Topic number: 80 ************
+
+reading
+
+******** Topic number: 81 ************
+
+language
+
+******** Topic number: 82 ************
+
+public speaking
+
+******** Topic number: 83 ************
+
+reading
+
+******** Topic number: 84 ************
+
+public speaking
+
+******** Topic number: 85 ************
+
+literacy
+
+******** Topic number: 86 ************
+
+listening
+
+******** Topic number: 87 ************
+
+cooking
+
+******** Topic number: 88 ************
+
+writing
+
+******** Topic number: 89 ************
+
+writing
+
+******** Topic number: 90 ************
+
+writing
+
+******** Topic number: 91 ************
+
+test anxiety
+
+******** Topic number: 92 ************
+
+language
+
+******** Topic number: 93 ************
+
+reading
+
+******** Topic number: 94 ************
+
+workplace communication
+
+******** Topic number: 95 ************
+
+public speaking
+
+******** Topic number: 96 ************
+
+writing
+
+******** Topic number: 97 ************
+
+literacy
+
+******** Topic number: 98 ************
+
+literacy
+
+******** Topic number: 99 ************
+
+interpretation
+
+******** Topic number: 100 ************
+
+writing
